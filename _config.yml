@@ -13,8 +13,7 @@ author: Some Person
 
 # --- List of links in the navigation bar --- #
 
-navbar-links:
-  About Me: "aboutme"jesil
+navbar-link:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
